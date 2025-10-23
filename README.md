@@ -166,15 +166,17 @@ Multivariate Analysis
 
 6. Access Dataset
 
-    All datasets are stored in the data/ folder:
+    All datasets are uploaded in the repository:
 
-    data/titles.csv → Amazon Prime titles metadata
+    titles.csv → Amazon Prime titles metadata
 
-    data/credits.csv → Cast & crew information
+    credits.csv → Cast & crew information
 
-7. Run the Notebook
+   Upload the above datasets in the colab notebook.
 
-8. Execute each cell in order. Visualizations include:
+8. Run the Notebook
+
+9. Execute each cell in order. Visualizations include:
 
     Univariate: Histogram, Bar Plot, Pie Plot, Box Plot
 
@@ -182,7 +184,7 @@ Multivariate Analysis
 
     Multivariate: Pair Plot, Correlation Heatmap
 
-9. Explore Insights
+10. Explore Insights
 
     Analyze trends in Amazon Prime’s content library 📊 Check genres, IMDb ratings, regional distribution, and actor/director analysis.
     Use visualizations to draw conclusions about content diversity & audience preferences.
