@@ -144,48 +144,48 @@ Multivariate Analysis
 
 🛠️ Steps to Run the Project
 
-Clone the Repository
+1. Clone the Repository
 
-git clone https://github.com/your-username/Amazon-Prime-TV-Shows-and-Movies.git
+    git clone https://github.com/deepmalakale/EDA-AmazonPrime-TVShows-and-Movies.git
+
+2. Navigate to the Project Directory
+
+    cd EDA-AmazonPrime-TVShows-and-Movies
+
+3. Open the Project in Google Colab
+
+    Click the Colab badge below:
+    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmalakale/EDA-AmazonPrime-TVShows-and-Movies/blob/main/EDA_AmazonPrime_TVShows_Movies.ipynb)
+
+4. Ensure you have internet access for Python library installation.
+
+5. Install Required Libraries (if running locally)
+
+    pip install pandas numpy matplotlib seaborn plotly
 
 
-Navigate to the Project Directory
+6. Access Dataset
 
-cd Amazon-Prime-TV-Shows-and-Movies
+    All datasets are stored in the data/ folder:
 
+    data/titles.csv → Amazon Prime titles metadata
 
-Open the Project in Google Colab
+    data/credits.csv → Cast & crew information
 
-Click the Colab badge below:
+7. Run the Notebook
 
-Ensure you have internet access for Python library installation.
+8. Execute each cell in order. Visualizations include:
 
-Install Required Libraries (if running locally)
+    Univariate: Histogram, Bar Plot, Pie Plot, Box Plot
 
-pip install pandas numpy matplotlib seaborn plotly
+    Bivariate: Bar Plot, Scatter Chart, Line Chart, Box Plot, Pie Chart, Bubble Plot, Violin Plot, Donut Chart, Treemap
 
+    Multivariate: Pair Plot, Correlation Heatmap
 
-Access Dataset
+9. Explore Insights
 
-All datasets are stored in the data/ folder:
-
-data/titles.csv → Amazon Prime titles metadata
-
-data/credits.csv → Cast & crew information
-
-Run the Notebook
-
-Execute each cell in order. Visualizations include:
-
-Univariate: Histogram, Bar Plot, Pie Plot, Box Plot
-
-Bivariate: Bar Plot, Scatter Chart, Line Chart, Box Plot, Pie Chart, Bubble Plot, Violin Plot, Donut Chart, Treemap
-
-Multivariate: Pair Plot, Correlation Heatmap
-
-Explore Insights
-
-Analyze trends in Amazon Prime’s content library 📊 Check genres, IMDb ratings, regional distribution, and actor/director analysis. Use visualizations to draw conclusions about content diversity & audience preferences.
+    Analyze trends in Amazon Prime’s content library 📊 Check genres, IMDb ratings, regional distribution, and actor/director analysis.
+    Use visualizations to draw conclusions about content diversity & audience preferences.
 
 ✅ Conclusion
 
