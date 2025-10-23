@@ -1,4 +1,4 @@
-🎬 Amazon Prime TV Shows and Movies
+🎬 ***Amazon Prime TV Shows and Movies***
 
 **Project Overview**
 
