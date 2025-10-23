@@ -1,1 +1,1 @@
-# EDa-AmazonPrime-TVShows-and-Movies
+# EDA-AmazonPrime-TVShows-and-Movies
