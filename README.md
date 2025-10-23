@@ -1,4 +1,6 @@
-🎬 Amazon Prime TV Shows and Movies: Project Overview
+🎬 Amazon Prime TV Shows and Movies
+
+**Project Overview**
 
 The Amazon Prime TV Shows and Movies project delves into analyzing Amazon Prime Video’s U.S. content library using two comprehensive datasets. The objective is to uncover patterns, trends, and insights related to:
 
