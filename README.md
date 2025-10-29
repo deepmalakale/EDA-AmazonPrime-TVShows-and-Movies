@@ -155,7 +155,7 @@ Multivariate Analysis
 3. Open the Project in Google Colab
 
     Click the Colab badge below:
-    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmalakale/EDA-AmazonPrime-TVShows-and-Movies/blob/main/EDA_AmazonPrime_TVShows_Movies.ipynb)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmalakale/EDA-AmazonPrime-TVShows-and-Movies/blob/main/AmazonPrime_TVShows_Movies.ipynb)
 
 4. Ensure you have internet access for Python library installation.
 
