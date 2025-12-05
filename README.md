@@ -1,5 +1,5 @@
 🎬 **Exploratory Data Analysis on Amazon Prime TV Shows and Movies**
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmalakale/EDA-AmazonPrime-TVShows-and-Movies/blob/main/AmazonPrime_TVShows_Movies.ipynb)
+[![Open in Colab](https://colab.research.google.com/drive/1w_IotxQQ-FJsak5IJ5eQRm9tJObcuPPT?usp=drive_link)]
 
 
 **Project Overview**
