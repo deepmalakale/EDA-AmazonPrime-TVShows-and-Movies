@@ -1,5 +1,5 @@
 🎬 **Exploratory Data Analysis on Amazon Prime TV Shows and Movies**
-[![Open in Colab](https://colab.research.google.com/drive/1w_IotxQQ-FJsak5IJ5eQRm9tJObcuPPT?usp=drive_link)]
+[![Open in Colab](https://colab.research.google.com/drive/1w_IotxQQ-FJsak5IJ5eQRm9tJObcuPPT?usp=drive_link)](https://colab.research.google.com/drive/1w_IotxQQ-FJsak5IJ5eQRm9tJObcuPPT?usp=drive_link)
 
 
 **Project Overview**
